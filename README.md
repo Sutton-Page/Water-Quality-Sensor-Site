@@ -1,5 +1,5 @@
 # Water Quality Sensor Site
-(https://sensor-site-52b37b97a079.herokuapp.com/)
+### https://sensor-site-52b37b97a079.herokuapp.com/
 
 ## Homepage
 ![](/screenshots/homepage.PNG)
