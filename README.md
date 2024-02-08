@@ -1,5 +1,5 @@
 # Water Quality Sensor Site
-Website for displaying data collected from water quality sensors. \n
+Website for displaying data collected from water quality sensors.
 Live Site URL: https://sensor-site-52b37b97a079.herokuapp.com/
 
 
