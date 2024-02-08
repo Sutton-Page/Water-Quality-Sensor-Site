@@ -2,10 +2,10 @@
 [Live Site URL](https://sensor-site-52b37b97a079.herokuapp.com/)
 
 ## Homepage
-[](/screenshots/homepage.PNG)
+![](/screenshots/homepage.PNG)
 
 ## Sensor Page
-[](/screenshots/sensor-page.PNG)
+![](/screenshots/sensor-page.PNG)
 
 
 
