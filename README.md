@@ -1,6 +1,12 @@
 # Water Quality Sensor Site
 [Live Site URL](https://sensor-site-52b37b97a079.herokuapp.com/)
 
+## Homepage
+[](/screenshots/homepage.PNG)
+
+## Sensor Page
+[](/screenshots/sensor-page.PNG)
+
 
 
 This template should help get you started developing with Vue 3 in Vite.
